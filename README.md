@@ -15,25 +15,25 @@ This project analyzes Zomato sales data to uncover key insights into restaurant 
 
 ## Dataset Description
 
-The dataset contains details about orders, customers, ratings, and restaurant information.
-Key columns include Restaurant Name, Online booking, Rating, Votes, listed in and approx_cost.
-The data is cleaned and processed to remove missing or inconsistent values.
+- The dataset contains details about orders, customers, ratings, and restaurant information.
+- Key columns include Restaurant Name, Online booking, Rating, Votes, listed in and approx_cost.
+- The data is cleaned and processed to remove missing or inconsistent values.
 
 
 ## Technologies Used
 
-Python (for data analysis)
-Pandas & NumPy (for data manipulation)
-Matplotlib & Seaborn (for visualization)
-Jupyter Notebook (for interactive analysis)
+- Python (for data analysis)
+- Pandas & NumPy (for data manipulation)
+- Matplotlib & Seaborn (for visualization)
+- Jupyter Notebook (for interactive analysis)
 
 
 ## Methodology
 
-Data Cleaning – Handling missing values, duplicates, and incorrect data types.
-Exploratory Data Analysis (EDA) – Understanding patterns using visualizations.
-Customer Behavior Analysis – Identifying preferences based on ratings 
-Conclusion & Recommendations – Summarizing key insights for business decisions.
+- Data Cleaning – Handling missing values, duplicates, and incorrect data types.
+- Exploratory Data Analysis (EDA) – Understanding patterns using visualizations.
+- Customer Behavior Analysis – Identifying preferences based on ratings 
+- Conclusion & Recommendations – Summarizing key insights for business decisions.
 
 ## Conclusion 
 
