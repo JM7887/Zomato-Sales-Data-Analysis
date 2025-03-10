@@ -7,10 +7,10 @@ This project analyzes Zomato sales data to uncover key insights into restaurant 
 
 ## Objective
 
-Understand sales patterns and trends in Zomato's dataset.
-Do a greater number of restaurants provide online delivery as opposed to offline services?
-Which types of restaurants are the most favored by the general public?
-What price range is preferred by couples for their dinner at restaurants?
+- Understand sales patterns and trends in Zomato's dataset.
+- Do a greater number of restaurants provide online delivery as opposed to offline services?
+- Which types of restaurants are the most favored by the general public?
+- What price range is preferred by couples for their dinner at restaurants?
 
 
 ## Dataset Description
