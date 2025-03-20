@@ -3,7 +3,8 @@
 ## Project Overview
 
 This project analyzes Zomato sales data to uncover key insights into restaurant performance, customer behavior, and sales trends. Using Python, we perform data cleaning, exploratory data analysis (EDA), and visualization to derive meaningful business insights.
-
+ 
+ ![zomato2708](https://github.com/user-attachments/assets/c3f2a456-6676-4b03-bba7-26b8fa98b0f9)
 
 ## Objective
 
